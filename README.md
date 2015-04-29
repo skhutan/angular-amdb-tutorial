@@ -1,11 +1,11 @@
 #Angular.js AMDB Tutorial
 
 You will be creating AMDB Single Page App - the Angular Movie DataBase.  Bootstrap 3 is included so feel free to use it if you wish.
-```
-The lecture notes can be accessed at * [Slides.com](http://slides.com/skhutan/deck)
 
-The lab starter code can be accessed at [CodePen](http://codepen.io/hw-angular/pen/dPQxwM)
-```
+The lecture notes can be accessed at [Slides.com](http://slides.com/skhutan/deck).
+
+The lab starter code can be accessed at [CodePen](http://codepen.io/hw-angular/pen/dPQxwM).
+
 You can fork this codepen and create your own version, saving changes as you go.
 Or alternatively, you can download the source code (Share -> Export .zip) and unzip it into your public_html directory and work on the lab locally.
 
